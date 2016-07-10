@@ -10,6 +10,11 @@ ps：因为老王比较喜欢Java做服务器开发，嘿嘿~ 如果大家用其
 * run test: 在命令行(cmd/shell)中输入javac、java提示相关用法，说明安装成功
 
 ### 下载并安装ant : 编译工具
+ant类似于c语言的make一样，可以让我们更方便的编译java代码<br>
+* download: 到apache官网下载ant，这里是[下载地址](http://ant.apache.org/bindownload.cgi)
+* install: 按说明安装即可
+* configure path: 在命令行(cmd/shell)中输入ant，如果提示没有该命令，需要在PATH环境变量中配置ant的路径，具体可以百度搜索"path环境变量"，或类似关键字
+* run test: 在命令行(cmd/shell)中输入ant提示相关用法，说明安装成功
 
 ### 下载并安装jetty : j2ee runtime 环境
 
