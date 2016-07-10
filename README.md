@@ -22,5 +22,6 @@ jetty是J2EE的运行时框架服务器，和tomcat、resin一样，不过他非
 * install: 不用安装，解压即可
 * configure path: 需要配置JETTY_HOME环境变量，具体可以百度搜索"环境变量配置"，或类似关键字。这是老王的配置：echo $JETTY_HOME
 /Users/simplemain/java_soft/jetty-hightide-8.0.0.v20110901
-<br>
+
+<br><br>
 好了，只要安装好以上工具，就可以进行相关web应用的开发了~~
