@@ -18,7 +18,7 @@ ant类似于c语言的make一样，可以让我们更方便的编译java代码<b
 
 ### 下载并安装jetty : j2ee runtime 环境
 jetty是J2EE的运行时框架服务器，和tomcat、resin一样，不过他非常小巧，跑起来很快，老王就特别喜欢简单的东西
-* download: 老王比较懒，用的一直是8.0.0的版本，这里是[下载地址](http://repo2.maven.org/maven2/org/mortbay/jetty/jetty-hightide/8.0.0.v20110901/)，如果打不开，可以在[百度网盘](http://pan.baidu.com/s/1skX1bNv)下载，现在已经是eclipse的项目了，所以如果想下载新版可以去eclipse官网下载（但是配置和老版本不一样了，所以想复用老王代码的，可以就下载老版本）
+* download: 老王比较懒，用的一直是8.0.0的版本，这里是[下载地址](http://repo2.maven.org/maven2/org/mortbay/jetty/jetty-hightide/8.0.0.v20110901/)，如果打不开，可以在[老王的百度网盘下载](http://pan.baidu.com/s/1skX1bNv)，现在已经是eclipse的项目了，所以如果想下载新版可以去eclipse官网下载（但是配置和老版本不一样了，所以想复用老王代码的，可以就下载老版本）
 * install: 不用安装，解压即可
 * configure path: 需要配置JETTY_HOME环境变量，具体可以百度搜索"环境变量配置"，或类似关键字。这是老王的配置：echo $JETTY_HOME<br>
 /Users/simplemain/java_soft/jetty-hightide-8.0.0.v20110901
