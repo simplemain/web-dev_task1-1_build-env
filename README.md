@@ -25,5 +25,5 @@ jetty是J2EE的运行时框架服务器，和tomcat、resin一样，不过他非
 
 <br>
 详细文档请[点击此处](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392209&idx=1&sn=ed4e16d807e9eb2bfca8dbb85be0bb86&scene=0#wechat_redirect)
-<br>
+<br><br>
 好了，只要安装好以上工具，就可以进行相关web应用的开发了~~
